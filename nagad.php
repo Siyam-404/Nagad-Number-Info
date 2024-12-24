@@ -190,7 +190,7 @@
             <input type="tel" name="phoneNumber" class="input-field" placeholder="Enter Number Here (e.g., 01XXXXXXXXX)" required>
             <div class="button-group">
                 <button type="submit" class="button get-info">🔍 Get Info</button>
-                <a href="https://t.me/Freedom369_4u" class="button join-channel">💬 Join TG</a>
+                <a href="https://siyam-404.github.io/Profile/" class="button join-channel">💬 Join TG</a>
             </div>
         </form>
 
